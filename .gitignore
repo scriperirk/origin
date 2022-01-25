@@ -1,0 +1,8 @@
+#tmp
+tmp/
+#_old, _backup
+*.html_old
+*.png_backup
+#Thumbs.db и .DS_Store
+Thumbs.db
+*.DS_Store
